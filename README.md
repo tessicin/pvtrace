@@ -50,7 +50,7 @@ lsc.report()  # print report
 
 This script will render the ray-tracing in real time,
 
-![](https://raw.githubusercontent.com/danieljfarrell/pvtrace/master/docs/pvtrace-demo.gif)
+![](https://raw.githubusercontent.com/danieljfarrell/pvtrace/dev/lsc-device/docs/pvtrace-demo.gif)
 
 
 
@@ -206,7 +206,7 @@ Please add or modifty an exsiting unit tests in the `pvtrace/tests` directory if
  
 ## Questions
 
-You can get in contact with me directly at [dan@excitonlabs.com](mailto:dan@excitonlabs.com?subject=GitHub pvtrace question)
+You can get in contact with me directly at dan@excitonlabs.com.
 
 ## Dependancies
 
